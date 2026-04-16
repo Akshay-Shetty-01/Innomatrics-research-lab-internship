@@ -1,0 +1,10 @@
+We are hiring a Data Scientist.
+
+Required skills:
+- Python
+- Machine Learning
+- SQL
+- Pandas
+- Scikit-learn
+
+Experience: 2+ years
